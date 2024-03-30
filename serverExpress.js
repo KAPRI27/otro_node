@@ -31,3 +31,7 @@ app.get("*", (req, res) => {
 // Paso 2: Enviar como respuesta de la ruta genérica un encabezado centrado con HTML que diga “Sorry, aquí no hay nada :/”
     res.send("<center><h1>Disculpa, esta página está vacía :/</h1></center>");
 });
+
+
+//escribiendo esto solo para poder subirlo a git 
+//otro comentario
