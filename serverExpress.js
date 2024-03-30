@@ -33,5 +33,5 @@ app.get("*", (req, res) => {
 });
 
 
-//escribiendo esto solo para poder subirlo a git otra vez
+//escribiendo esto solo para subirlo a git otra vez
 //otro comentario
